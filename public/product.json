@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue Formal shirt",
+      "description": "Formal shirts",
+      "price": "20"
+    },
+    {
+      "id": 2,
+      "name": "Red Kurtha",
+      "description": "Ethnic wear",
+      "price": "29"
+    },
+    {
+      "id": 3,
+      "name": "Grey T Shirt",
+      "description": "Ethnic wear",
+      "price": "19"
+    },
+    {
+      "id": 4,
+      "name": "Blue party wear",
+      "description": "Ethnic wear",
+      "price": "15"
+    },
+    {
+      "id": 5,
+      "name": "Party wear Grey",
+      "description": "Ethnic wear",
+      "price": 22
+    },
+    {
+      "id": 6,
+      "name": "Red Party wear",
+      "description": "Ethnic wear",
+      "price": 33
+    },
+    {
+      "id": 7,
+      "name": "Party wear coat Blue",
+      "description": "Ethnic wear",
+      "price": 25
+    },
+    {
+      "id": 8,
+      "name": "Red Kurtha",
+      "description": "Ethnic wear",
+      "price": 5
+    },
+    {
+      "id": 9,
+      "name": "Yellow Kurtha",
+      "description": "Ethnic wear",
+      "price": 15
+    },
+    {
+      "id": 11,
+      "name": "Red TShirt",
+      "description": "T Shirt",
+      "price": 25.88
+    },
+    {
+      "id": 12,
+      "name": "Green Formal Shirt",
+      "description": "Formal Shirt",
+      "price": 12
+    },
+    {
+      "id": 13,
+      "name": "Yellow Formal Shirt",
+      "description": "Formal Shirt",
+      "price": 16.18
+    },
+    {
+      "id": 14,
+      "name": "Party wear coat Red",
+      "description": "Ethnic wear",
+      "price": 25
+    },
+    {
+      "id": 15,
+      "name": "Grey party wear",
+      "description": "Ethnic wear",
+      "price": "20"
+    },
+    {
+      "id": "16",
+      "name": "Blue kurtha",
+      "description": "Ethnic wear",
+      "price": "9"
+    },
+    {
+      "id": "17",
+      "name": "Black Kurtha",
+      "description": "Ethnic wear",
+      "price": "9"
+    },
+    {
+      "id": "18",
+      "name": "Black Kurtha",
+      "description": "Ethnic wears",
+      "price": "19"
+    },
+    {
+      "id": "20",
+      "name": "Jodhpuri Blue suit ",
+      "description": "Ethnic wear",
+      "price": "21"
+    }
+  ]
+}
